@@ -23,3 +23,11 @@ body {
   padding-left: 3rem;
   list-style-type: none;
 }
+
+.feature ul li {
+  padding-left: 3rem;
+  background-image: url(../img/check.svg);
+  background-repeat: no-repeat;
+  line-height: 1.5rem;
+  margin-bottom: 1rem;
+}
